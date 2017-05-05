@@ -1,1 +1,1 @@
-This program changes filename which starts with a specific string 
+This program changes all filenames which starts with a specific string 
